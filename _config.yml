@@ -175,6 +175,6 @@ avatar: /uploads/images/1.jpg
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git # 使用Git提交
-  repo: https://github.com/psrsonal/psrsonal.github.io # 就是存放博客的仓库地址
+  repo: https://github.com/psrsonal/psrsonal.github.io.git # 就是存放博客的仓库地址
 # https://github.com/psrsonal/psrsonal.github.io.git
 ## git@github.com:psrsonal/psrsonal.github.io.git
