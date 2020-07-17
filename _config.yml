@@ -55,7 +55,7 @@ duoshuo_info:
 # https://github.com/chriskempson/tomorrow-theme
 #highlight_theme: normal
 # 代码高亮主题
-highlight_theme: night eighties
+# highlight_theme: night eighties
 
 # 打赏配置
 # 打赏说明文本
@@ -91,14 +91,14 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
+# source_dir: source
+# public_dir: public
+# tag_dir: tags
+# archive_dir: archives
+# category_dir: categories
+# code_dir: downloads/code
+# i18n_dir: :lang
+# skip_render:
 
 # Writing
 # 文章布局、写作格式的定义，不修改
