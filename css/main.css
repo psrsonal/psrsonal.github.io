@@ -1101,7 +1101,6 @@ pre .javascript .function {
 }
 .site-meta {
   margin: 0;
-  text-align: center;
 }
 @media (max-width: 767px) {
   .site-meta {
@@ -1822,7 +1821,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c96070;
+  background: #f7ad04;
 }
 .links-of-blogroll {
   font-size: 13px;
