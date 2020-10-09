@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 一点儿博客
-subtitle: '欢迎来到一点儿博客'
+title: 陈怡博客
+subtitle: '欢迎来到陈怡博客'
 description: '前端进阶'
 keywords: "Android,DIY"
 author: yide
@@ -61,14 +61,14 @@ duoshuo_info:
 # 打赏说明文本
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
 # 微信收款二维码
-wechatpay: /uploads/images/wechat-reward-image.png
+wechatpay: /uploads/images/wechat-reward-image.jpg
 # 支付宝收款二维码
-alipay: /uploads/images/alipay-reward-image.png
+alipay: /uploads/images/alipay-reward-image.jpg
 
 # 友情链接
 links_title: Links
 links:
-  DIY-green简书: http://www.jianshu.com/users/0ad0a0afc409/latest_articles
+  YJT-语雀: https://www.yuque.com/dashboard
 
 
 # 订阅微信公众号
@@ -169,7 +169,7 @@ theme: next # 配置主题
 
 # 头像
 # 注意: 是xxx.github.io/source 下的开始的相对路径，如果 source 文件夹下面没有 uploads 文件夹，那么新建一个。考虑到会博客中用很多图片，在 uploads 文件夹下请分好类，避免混乱
-avatar: /uploads/images/1.jpg
+# avatar: /uploads/images/1.jpg
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
